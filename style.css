@@ -58,3 +58,8 @@ h2 {
 #mainLeft {
     border-right: 1px solid #A9A9A9;
 }
+
+/* Round out the profile picture */
+img {
+    border-radius: 50%;
+}
