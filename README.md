@@ -8,12 +8,4 @@ This is just my most recent work history and some highlights of the last few yea
     * This Microsoft workshop: https://techcommunity.microsoft.com/t5/educator-developer-blog/create-a-resume-website-no-coding-experience-required/ba-p/3056672 
     * Background image from: https://www.toptal.com/designers/subtlepatterns/
     * W3 Schools
-   
-
-
-
-Overall to do:
-    - Finish workshop to complete structure
-    - Insert circular photo
-    - Host on Github
-    - Doublecheck the spelling and text portion of the application
+    * Mozilla Developer Resources, "Javascript Basics": https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#a_hello_world!_example
