@@ -2,6 +2,9 @@
 Final resume project for application to Prime Academy.
 This is just my most recent work history and some highlights of the last few years of work. My complete resume is available, upon request.
 
+# View
+https://taylormoe93.github.io/resume/
+
 # Learning Resources used:
     * Prime Academy workshops
     * Stack Overflow and Google to troubleshoot errors that I encountered.
